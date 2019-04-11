@@ -1,1 +1,1 @@
-# SBoundary
+# Sens stope boundary
